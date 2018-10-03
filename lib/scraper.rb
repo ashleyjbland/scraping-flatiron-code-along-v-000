@@ -17,6 +17,7 @@ class Scraper
 
     binding.pry
     end
+  end
 
 
     def print_courses
